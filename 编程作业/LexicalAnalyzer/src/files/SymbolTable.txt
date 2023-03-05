@@ -1,0 +1,6 @@
+    Symbol |   Number
+OPENBLOCKCOMMENT |      209
+CLOSEBLOCKCOMMENT |      210
+LINECOMMENT |      211
+     MACRO |      212
+       STR |      404

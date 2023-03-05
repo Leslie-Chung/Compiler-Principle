@@ -1,0 +1,7 @@
+<1>  //  <LINECOMMENT,_>
+<1>     <String,_>
+<2>  /*  <OPENBLOCKCOMMENT,_>
+<2>  etwet   <String,_>
+<3>  */  <CLOSEBLOCKCOMMENT,_>
+<4>  #include  <MACRO,_>
+<5>  #define  <MACRO,_>

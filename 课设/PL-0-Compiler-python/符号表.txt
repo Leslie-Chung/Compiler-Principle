@@ -1,0 +1,15 @@
+___________________________________________________________
+NAME:main		PROCEDURE		LEVEL:0		ADR:None
+NAME:m		CONSTANT		VAL:10		ADR:None
+NAME:a		VARIABLE		LEVEL:0		ADR:4
+NAME:sum		VARIABLE		LEVEL:0		ADR:5
+NAME:sub		PROCEDURE		LEVEL:0		ADR:2
+___________________________________________________________
+
+
+___________________________________________________________
+NAME:n		VARIABLE		LEVEL:1		ADR:4
+NAME:tt		VARIABLE		LEVEL:1		ADR:5
+___________________________________________________________
+
+

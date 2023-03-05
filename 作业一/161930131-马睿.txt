@@ -1,0 +1,10 @@
+1.[Error] ld returned 1 exit status（错将main 写成 mian）
+2.[Error] expected ';' before '}' token（缺少；）
+3.[Error] 'buf' was not declared in this scope; did you mean 'buff'?（引用错变量名）
+4.[Note] previous declaration as 'int varx'（之前定义过某变量）
+5.[Error] bits/stdc++: No such file or directory（引用错头文件）
+6.[Error] narrowing conversion of '5.0999999999999996e+0' from 'double' to 'int' [-Wnarrowing]（数组元素类型错误）
+7.[Error] too many arguments to function 'void test()'（调用函数时多加了参数）
+8.[Error] return-statement with a value, in function returning 'void' [-fpermissive]（void函数有返回值）
+9.[Error] 'int A::a' is private within this context（类外直接访问了私有成员变量）
+10.[Error] request for member 'age' in 's', which is of pointer type 'Student*' (maybe you meant to use '->' ?)（访问指针型结构体变量内的变量，应当用->而不是.）

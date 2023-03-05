@@ -1,0 +1,20 @@
+program main;
+const m := 10;
+var a,sum;
+procedure sub(n);
+var tt;
+begin
+    tt := 1;
+    sum:=sum+n;
+    n:=n-1;
+    if n>0 then
+    begin
+    call sub(n)
+    end
+end
+begin
+read(a);
+sum:=0;
+call sub(a);
+write(sum)
+end
